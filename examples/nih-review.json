@@ -1,0 +1,69 @@
+{
+  "version": "0.1",
+  "mode": "call",
+  "sourceHash": "abae995e698c50066e1b60592ecd653b4c2c2a90105f48ea22a88758b77357b8",
+  "callHash": null,
+  "title": "NIH PAR-25-144 · cost criterion",
+  "reviewer": "Codex (illustrative editorial review)",
+  "scope": "Only one sentence in Section V, Factor 1 of https://grants.nih.gov/grants/guide/pa-files/PAR-25-144.html was supplied. Other clauses and attachments were outside this review.",
+  "findings": [
+    {
+      "id": "fit",
+      "question": "Can a team tell whether its project qualifies, when to apply and what the award can cover?",
+      "score": null,
+      "rationale": "Outside the scope of this cost-criterion excerpt.",
+      "quote": "",
+      "callQuote": "",
+      "edit": null
+    },
+    {
+      "id": "collaboration",
+      "question": "Does the call show how communities and other funders shaped it and how related efforts can work together?",
+      "score": null,
+      "rationale": "Outside the scope of this cost-criterion excerpt.",
+      "quote": "",
+      "callQuote": "",
+      "edit": null
+    },
+    {
+      "id": "portable-plan",
+      "question": "Which existing proposal sections will the funder accept, and which supplements affect this award?",
+      "score": null,
+      "rationale": "Outside the scope of this cost-criterion excerpt.",
+      "quote": "",
+      "callQuote": "",
+      "edit": null
+    },
+    {
+      "id": "scale",
+      "question": "Do allowable costs and award size support the reach, follow-up and maintenance requested?",
+      "score": 1,
+      "rationale": "The criterion asks reviewers to consider costs. This passage gives them no way to compare planned reach with what the budget can support.",
+      "quote": "Evaluate whether consideration has been given to resource requirements and costs of the intervention",
+      "callQuote": "",
+      "edit": {
+        "action": "insert-after",
+        "anchor": "Evaluate whether consideration has been given to resource requirements and costs of the intervention",
+        "text": "Ask applicants to estimate the population they can reach at the requested budget, state their cost assumptions and identify what a larger award could test."
+      }
+    },
+    {
+      "id": "outcomes",
+      "question": "Does the call explain how proposals will be judged and which outcome definitions and reports donors can share?",
+      "score": null,
+      "rationale": "Outside the scope of this cost-criterion excerpt.",
+      "quote": "",
+      "callQuote": "",
+      "edit": null
+    },
+    {
+      "id": "open-work",
+      "question": "Does the call fund and require reusable materials, explicit rights, access to methods and privacy protections?",
+      "score": null,
+      "rationale": "Outside the scope of this cost-criterion excerpt.",
+      "quote": "",
+      "callQuote": "",
+      "edit": null
+    }
+  ]
+}

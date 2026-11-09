@@ -1,0 +1,19 @@
+{
+  "version": "0.1",
+  "parts": {
+    "scope": "Purpose, priority population, eligibility, dates and award limits",
+    "partners": "Community input, related work and the roles of partners",
+    "submission": "Reusable proposal fields and award-specific supplements",
+    "resources": "Budget, scale, feasibility and maintenance",
+    "evaluation": "Outcome definitions, review criteria and reporting",
+    "reuse": "Release of materials, methods, rights and privacy"
+  },
+  "criteria": [
+    {"id":"fit","part":"scope","call":"Can a team tell whether its project qualifies, when to apply and what the award can cover?","application":"Does the proposal identify the eligible population, project and fit with this call?"},
+    {"id":"collaboration","part":"partners","call":"Does the call show how communities and other funders shaped it and how related efforts can work together?","application":"Does the team identify related work, partner contributions and community decision-making?"},
+    {"id":"portable-plan","part":"submission","call":"Which existing proposal sections will the funder accept, and which supplements affect this award?","application":"Can another donor reuse the project plan and distinguish this request from existing commitments?"},
+    {"id":"scale","part":"resources","call":"Do allowable costs and award size support the reach, follow-up and maintenance requested?","application":"Does the budget explain achievable reach, limitations and the cost of expansion?"},
+    {"id":"outcomes","part":"evaluation","call":"Does the call explain how proposals will be judged and which outcome definitions and reports donors can share?","application":"Are expectations, measures, timing and how results will be reported specific enough to check?"},
+    {"id":"open-work","part":"reuse","call":"Does the call fund and require reusable materials, explicit rights, access to methods and privacy protections?","application":"Does the proposal identify deliverables, reuse terms, a public home, and a safe level of data sharing?"}
+  ]
+}
